@@ -9,9 +9,7 @@
 - Interested in Artificial Inteligence, Game Development.
 - Always searching for knowledge.
   
-  
-
-</br>
+  </hr>
 
 - 🌱 I'm currently learning **Backend and Api, Database and Auth and Security**
 
