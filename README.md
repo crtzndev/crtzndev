@@ -69,8 +69,4 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crtzndev&show_icons=true&locale=en&layout=compact" alt="crtzndev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crtzndev&show_icons=true&locale=en" alt="crtzndev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crtzndev&" alt="crtzndev" /></p>
